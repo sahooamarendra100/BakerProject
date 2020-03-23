@@ -1,0 +1,31 @@
+.head {
+    background:rgb(61, 75, 98);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+  }
+  .bg-color {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 650px;
+  }
+  
+  
+ 
+  .logo-dec {
+    color: #be9e21;
+  }
+  .body {
+      background-color: rgb(61, 75, 98) ;
+      min-height: 650px;
+  }
+  .paragraph{
+      min-height:600px ;
+      background-color:#f3f4f8;
+  }
+  
+  
+  
+  
+
